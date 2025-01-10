@@ -17,13 +17,13 @@ Before setting up the project, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MichalitoOo/playwright-frontend-demo
    cd <repository-folder>
    ```
 
 2. Install dependencies:
    ```bash
-   npm install
+   npm install ...
    ```
 
 3. Create a `.env` file in the project root and configure it with SauceDemo credentials:
